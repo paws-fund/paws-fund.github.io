@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on PAWS.Fund</title>
-    <link>http://charity.paws.fund/pages/</link>
+    <link>https://paws-fund.github.io/pages/</link>
     <description>Recent content in Pages on PAWS.Fund</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://charity.paws.fund/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paws-fund.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://charity.paws.fund/pages/about/</link>
+      <link>https://paws-fund.github.io/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://charity.paws.fund/pages/about/</guid>
+      <guid>https://paws-fund.github.io/pages/about/</guid>
       <description>Hugo cards is a Bootstrap based theme ported from the Jekyll theme Webjeda-cards. Any Bootstrap element can be used in the theme.
 For more themes, visit Hugo Themes
 Does the theme deserve a star?</description>
@@ -23,10 +23,10 @@ Does the theme deserve a star?</description>
     
     <item>
       <title>Contact</title>
-      <link>http://charity.paws.fund/pages/contact/</link>
+      <link>https://paws-fund.github.io/pages/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://charity.paws.fund/pages/contact/</guid>
+      <guid>https://paws-fund.github.io/pages/contact/</guid>
       <description>Visit my site
 Insert your contact details or a contact form here.</description>
     </item>

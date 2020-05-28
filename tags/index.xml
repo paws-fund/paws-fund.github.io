@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PAWS.Fund</title>
-    <link>http://charity.paws.fund/tags/</link>
+    <link>https://paws-fund.github.io/tags/</link>
     <description>Recent content in Tags on PAWS.Fund</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://charity.paws.fund/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paws-fund.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tag_c</title>
-      <link>http://charity.paws.fund/tags/tag_c/</link>
+      <link>https://paws-fund.github.io/tags/tag_c/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://charity.paws.fund/tags/tag_c/</guid>
+      <guid>https://paws-fund.github.io/tags/tag_c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag_a</title>
-      <link>http://charity.paws.fund/tags/tag_a/</link>
+      <link>https://paws-fund.github.io/tags/tag_a/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://charity.paws.fund/tags/tag_a/</guid>
+      <guid>https://paws-fund.github.io/tags/tag_a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag_b</title>
-      <link>http://charity.paws.fund/tags/tag_b/</link>
+      <link>https://paws-fund.github.io/tags/tag_b/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://charity.paws.fund/tags/tag_b/</guid>
+      <guid>https://paws-fund.github.io/tags/tag_b/</guid>
       <description></description>
     </item>
     

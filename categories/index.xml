@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on PAWS.Fund</title>
-    <link>http://charity.paws.fund/categories/</link>
+    <link>https://paws-fund.github.io/categories/</link>
     <description>Recent content in Categories on PAWS.Fund</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 May 2020 10:51:47 +0100</lastBuildDate>
     
-	<atom:link href="http://charity.paws.fund/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paws-fund.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>cat</title>
-      <link>http://charity.paws.fund/categories/cat/</link>
+      <link>https://paws-fund.github.io/categories/cat/</link>
       <pubDate>Wed, 27 May 2020 10:51:47 +0100</pubDate>
       
-      <guid>http://charity.paws.fund/categories/cat/</guid>
+      <guid>https://paws-fund.github.io/categories/cat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>holland</title>
-      <link>http://charity.paws.fund/categories/holland/</link>
+      <link>https://paws-fund.github.io/categories/holland/</link>
       <pubDate>Wed, 27 May 2020 10:51:47 +0100</pubDate>
       
-      <guid>http://charity.paws.fund/categories/holland/</guid>
+      <guid>https://paws-fund.github.io/categories/holland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dog</title>
-      <link>http://charity.paws.fund/categories/dog/</link>
+      <link>https://paws-fund.github.io/categories/dog/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://charity.paws.fund/categories/dog/</guid>
+      <guid>https://paws-fund.github.io/categories/dog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wildlife</title>
-      <link>http://charity.paws.fund/categories/wildlife/</link>
+      <link>https://paws-fund.github.io/categories/wildlife/</link>
       <pubDate>Mon, 13 Apr 2020 10:51:47 +0530</pubDate>
       
-      <guid>http://charity.paws.fund/categories/wildlife/</guid>
+      <guid>https://paws-fund.github.io/categories/wildlife/</guid>
       <description></description>
     </item>
     
     <item>
       <title>one</title>
-      <link>http://charity.paws.fund/categories/one/</link>
+      <link>https://paws-fund.github.io/categories/one/</link>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://charity.paws.fund/categories/one/</guid>
+      <guid>https://paws-fund.github.io/categories/one/</guid>
       <description></description>
     </item>
     
