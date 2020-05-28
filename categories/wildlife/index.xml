@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wildlife on PAWS.Fund</title>
+    <link>http://charity.paws.fund/categories/wildlife/</link>
+    <description>Recent content in wildlife on PAWS.Fund</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2020 10:51:47 +0530</lastBuildDate>
+    
+	<atom:link href="http://charity.paws.fund/categories/wildlife/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WWF</title>
+      <link>http://charity.paws.fund/charities/wwf/</link>
+      <pubDate>Mon, 13 Apr 2020 10:51:47 +0530</pubDate>
+      
+      <guid>http://charity.paws.fund/charities/wwf/</guid>
+      <description>Our mission is to conserve nature and reduce the most pressing threats to the diversity of life on Earth.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cat on PAWS.Fund</title>
+    <link>http://charity.paws.fund/categories/cat/</link>
+    <description>Recent content in cat on PAWS.Fund</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 May 2020 10:51:47 +0100</lastBuildDate>
+    
+	<atom:link href="http://charity.paws.fund/categories/cat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zwerfkat In Nood</title>
+      <link>http://charity.paws.fund/charities/zwerfkat/</link>
+      <pubDate>Wed, 27 May 2020 10:51:47 +0100</pubDate>
+      
+      <guid>http://charity.paws.fund/charities/zwerfkat/</guid>
+      <description>In Belgium and The Netherlands there is a big stray cat problem. Thousands of cats roam the streets, are dumped in containers or forests, buried alive under the ground or drowned in canals. Litters of unwanted kittens or are thrown in boxes along the highway. The stray cats that were born outside or dumped by heartless people, each come with a story of their own. Some kittens, barely a few hours old, were found in plastic bags on a cycle path.</description>
+    </item>
+    
+  </channel>
+</rss>

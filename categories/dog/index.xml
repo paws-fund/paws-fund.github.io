@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dog on PAWS.Fund</title>
+    <link>http://charity.paws.fund/categories/dog/</link>
+    <description>Recent content in dog on PAWS.Fund</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://charity.paws.fund/categories/dog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rescue Dog</title>
+      <link>http://charity.paws.fund/charities/rescuedog/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://charity.paws.fund/charities/rescuedog/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris erat augue, eleifend nec est quis, iaculis suscipit lacus. In convallis ut mi ac volutpat. Integer feugiat lacinia purus, at condimentum enim tempus vitae. Fusce tempus tortor nibh, ut mollis sapien pulvinar at. Nam nec tortor ante. Phasellus lorem elit, placerat sit amet ligula ac, fermentum vulputate nibh. Quisque sed dapibus risus. Quisque sagittis iaculis maximus. Mauris lorem ligula, commodo in ullamcorper et, mollis ut dui.</description>
+    </item>
+    
+  </channel>
+</rss>
